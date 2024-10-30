@@ -9,6 +9,6 @@ source myenv/bin/activate
 
 
 steps.
-add .gitignore
-add .env
-pip install python-dotenv
+-add .gitignore
+-add .env
+-pip install python-dotenv
