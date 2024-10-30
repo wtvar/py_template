@@ -8,7 +8,10 @@ python -m venv myenv
 source myenv/bin/activate
 
 
-steps.
+steps:
+
 -add .gitignore
+
 -add .env
+
 -pip install python-dotenv
